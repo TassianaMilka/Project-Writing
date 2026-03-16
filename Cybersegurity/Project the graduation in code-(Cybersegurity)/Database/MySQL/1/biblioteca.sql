@@ -1,0 +1,43 @@
+CREATE DATABASE IF NOT EXISTS Biblioteca;
+
+USE Biblioteca;
+
+CREATE TABLE IF NOT EXISTS Livros (
+
+ISBN INT PRIMARY KEY,
+
+Titulo VARCHAR(100) NOT NULL,
+
+Ano_Publicacao INT,
+
+ID_Autor INT
+
+);
+
+CREATE TABLE IF NOT EXISTS Autores (
+
+ID_Autor INT PRIMARY KEY,
+
+Nome VARCHAR(50) NOT NULL,
+
+Pais_Origem VARCHAR(50)
+
+);
+
+CREATE TABLE IF NOT EXISTS Editoras (
+
+ID_Editora INT PRIMARY KEY,
+
+Nome VARCHAR(50) NOT NULL
+
+); 
+
+CREATE TABLE IF NOT EXISTS Usuarios (
+
+ID_Usuario INT PRIMARY KEY,
+
+Nome VARCHAR(50) NOT NULL,
+
+Data_Nascimento DATE
+
+);
