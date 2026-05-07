@@ -13,19 +13,19 @@ Realização descrito em português sobre um relatório de Administração de Si
 
 # English 
 
-Realization described in Portuguese on about a report  :
+Realization described in Portuguese on about a report Operating Systems Administration :
 
 -I described an introduction about the beginning and its requirements;
 
--I carried out what was proposed about packet protocol analysis 
+-I carried out what was proposed about packet protocol analysis research and installation in VirtualBox.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl 
 
-Logro descrito en portugués sobre un Informe de :
+Logro descrito en portugués sobre un Informe de  Administración de Sistemas Operativos :
 
 -Describí una introducción sobre el inicio y sus requisitos;
 
--Realicé lo propuesto en cuanto a la análisis 
+-Realicé lo propuesto en cuanto a la análisis investigación e instalación en VirtualBox.
 
