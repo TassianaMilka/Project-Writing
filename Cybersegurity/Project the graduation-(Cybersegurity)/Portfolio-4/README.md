@@ -4,7 +4,7 @@
 
 Realização descrito em português sobre um relatório de Lógica e Matemática Computacional:
 
--Descrevi uma introdução sobre o começo e os seus requesitos;
+-Descrevi uma introdução sobre o começo e os seus requisitos;
 
 -Realizei o que foi proposto sobre  a criação de um fluxograma.
 
