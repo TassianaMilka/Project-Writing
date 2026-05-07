@@ -4,7 +4,7 @@
 
 Realização descrito em português sobre um relatório de  Projeto Integrado Inovação-Cibersegurança :
 
--Descrevi uma introdução sobre o começo e os seus requesitos;
+-Descrevi uma introdução sobre o começo e os seus requisitos;
 
 -Realizei o que foi proposto sobre  protocolo,políticas de segurança e sistema de controle.
 
