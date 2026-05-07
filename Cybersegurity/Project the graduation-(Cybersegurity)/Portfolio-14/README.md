@@ -17,7 +17,7 @@ Realization described in Portuguese on about a report Operating Systems Administ
 
 -I described an introduction about the beginning and its requirements;
 
--I carried out what was proposed about packet protocol analysis research and installation in VirtualBox.
+-I carried out what was proposed about packet protocol analysis research and installation in virtualBox.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,5 +27,5 @@ Logro descrito en portugués sobre un Informe de  Administración de Sistemas Op
 
 -Describí una introducción sobre el inicio y sus requisitos;
 
--Realicé lo propuesto en cuanto a la análisis investigación e instalación en VirtualBox.
+-Realicé lo propuesto en cuanto a la análisis investigación e instalación en virtualBox.
 
