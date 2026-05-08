@@ -17,7 +17,7 @@ Realization described in Portuguese on about a report Operating Systems Administ
 
 -I described an introduction about the beginning and its requirements;
 
--I carried out what was proposed about packet protocol analysis research and installation in virtualBox.
+-I carried out what was proposed about analysis research and installation in virtualBox.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
