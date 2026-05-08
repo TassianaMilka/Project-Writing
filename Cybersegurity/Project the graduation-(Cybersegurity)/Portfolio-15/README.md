@@ -18,7 +18,7 @@ Realization described in Portuguese on about a report Offensive Security of Red 
 
 -I described an introduction about the beginning and its requirements;
 
--I carried out what was proposed about packet protocol analysis nmap.
+-I carried out what was proposed about analysis nmap.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
