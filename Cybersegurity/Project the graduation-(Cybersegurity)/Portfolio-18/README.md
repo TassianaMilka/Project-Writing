@@ -16,7 +16,7 @@ Realization described in Portuguese on about a Networks Management :
 
 -I described an introduction about the beginning and its requirements;
 
--I carried out what was proposed about packet protocol analysis networks.
+-I carried out what was proposed about  analysis networks.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
