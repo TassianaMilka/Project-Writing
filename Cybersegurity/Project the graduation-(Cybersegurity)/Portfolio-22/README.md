@@ -12,7 +12,7 @@ Realização descrito em português sobre alguns contextos da tecnologia entre e
 
 -Criptografia sua funcionalidade;
 
--Segurança Defensiva Blue Team sobre Logs e Ferramentas;
+-Segurança Defensiva Blue Team sobre logs e ferramentas;
 
 -Programação para Redes sua funcionalidade.
 
@@ -22,6 +22,19 @@ Realização descrito em português sobre alguns contextos da tecnologia entre e
 # English 
 
 Accomplishment described in Portuguese on some contexts of technology among them:
+
+
+-Cloud Computing about solve DDoS attacks;
+
+-Network Management segment resolution and prevention;
+
+-Forensic Expertise in Information Security risk description and analysis;
+
+-Encryption its functionality;
+
+-Defensive Security Blue Team on logs and tools;
+
+-Network Programming its functionality.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -38,6 +51,6 @@ Realización descrita en portugués en algunos contextos de la tecnología, entr
 
 -Criptografía su funcionalidad;
 
--Seguridad Defensiva Blue Team sobre Logs y Herramientas;
+-Seguridad Defensiva Blue Team sobre logs y herramientas;
 
 -Programación para Redes su funcionalidad.
