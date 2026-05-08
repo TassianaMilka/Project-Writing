@@ -30,3 +30,14 @@ Accomplishment described in Portuguese on some contexts of technology among them
 
 Realización descrita en portugués en algunos contextos de la tecnología, entre ellos:
 
+-Computación en la Nube sobre cómo solucionar ataques de DDoS;
+
+-Gestión de Redes resolución de segmento y prevención;
+
+-Pericia Forense en Seguridad de la Información descripción del riesgo y análisis;
+
+-Criptografía su funcionalidad;
+
+-Seguridad Defensiva Blue Team sobre Logs y Herramientas;
+
+-Programación para Redes su funcionalidad.
