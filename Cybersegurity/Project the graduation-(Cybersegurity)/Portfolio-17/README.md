@@ -17,7 +17,7 @@ Realization described in Portuguese on about a Cloud in Computing :
 
 -I described an introduction about the beginning and its requirements;
 
--I carried out what was proposed about packet protocol analysis code in java.
+-I carried out what was proposed about analysis code in java.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
